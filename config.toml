@@ -1,0 +1,82 @@
+baseurl      = "localhost"
+title        = "OpenCV Türkiye"
+languageCode = "en-us"
+theme        = "friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2020"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Subtitle for home
+  homeSubtitle = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
+
+  # Metadata mostly used in document's head
+  description = "Opencv türkiye"
+  keywords = "opencv, türkiye, opencv türkiye, görüntü işleme, yapay zeka"
+  images = ["img/opencv-logo.png"]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+    category = "community"
+    tag      = "tags"
+    series   = "series"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/opencvtr"
+    
+  [[params.social]]
+    name = "youtube"
+    url  = "https://youtube.com/opencvtr"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://youtube.com/opencvtr"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/opencvtr"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/opencvtr"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:opencvturkiye@gmail.com"
+
+[languages]
+  [languages.en]
+    title = "OpenCV Türkiye"
+    subtitle = "Gönüllü Topluluk"
+    keywords = ""
+    copyright = 'opencvtr.org'
+    readOtherPosts = ""
+
+    [languages.en.params.logo]
+      logoText = "{OpenCV Türkiye};"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "Hakkımızda"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Duyurular"
+    url        = "posts/"
