@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://opencvturkiye.github.io/opencvtr.org/"
 title        = "OpenCV Türkiye"
 languageCode = "en-us"
 theme        = "friend-ng"
