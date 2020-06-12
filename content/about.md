@@ -17,3 +17,5 @@ OpenCV Türkiye topluluğu, görüntü işleme, bilgisayarlı görü, yapay zeka
 **Nasıl Katılabilirim?**
 
 Topluluğa katılmak için aşağıdaki başvuru formunu kullanabilirsiniz.
+
+[Başvuru formu (Google Forms)](https://forms.gle/oPagwY1sca62GrKc6)

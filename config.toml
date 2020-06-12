@@ -40,15 +40,15 @@ paginate     = 10
 
   [[params.social]]
     name = "facebook"
-    url  = "https://youtube.com/opencvtr"
+    url  = "https://www.facebook.com/opencvturkey/"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/opencvtr"
+    url  = "https://github.com/opencvturkiye"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/opencvtr"
+    url  = "https://www.linkedin.com/groups/13877544/"
 
   [[params.social]]
     name = "email"
