@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenCV Türkiye</title>
-    <link>https://opencvturkiye.github.io/opencvtr-org/</link>
+    <link>http://opencv.org/</link>
     <description>Recent content on OpenCV Türkiye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>opencvtr.org</copyright>
     
-	<atom:link href="https://opencvturkiye.github.io/opencvtr-org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://opencv.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hakkımızda</title>
-      <link>https://opencvturkiye.github.io/opencvtr-org/about/</link>
+      <link>http://opencv.org/about/</link>
       <pubDate>Thu, 11 Jun 2020 12:50:28 +0300</pubDate>
       
-      <guid>https://opencvturkiye.github.io/opencvtr-org/about/</guid>
+      <guid>http://opencv.org/about/</guid>
       <description>OpenCV Türkiye topluluğu; görüntü işleme, bilgisayarlı görü ve yapay zeka alanlarında çalışma yapan veya ilgi duyan kişileri buluşturan, bu alanlarda bilgi ve deneyim paylaşımının sağlanması amacıyla bir araya gelmiş kişiler tarafından oluşturulmuş, ticari amaç gütmeyen gönüllü bir topluluktur. Topluluğun amacı; görüntü işleme teknolojileri alanlarda eğitim materyalleri oluşturmak, etkinlikler düzenlemek, akademik çalışmaları desteklemek ve bu alandaki teknolojiler üzerine tartışma ortamı sağlamaktır.
 Kimler Var?
 OpenCV Türkiye topluluğu, görüntü işleme, bilgisayarlı görü, yapay zeka gibi alanlar da çalışma yapan mühendisler, akademisyenler ve öğrencilerden oluşmaktadır.</description>
