@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on OpenCV Türkiye</title>
+        <link>http://opencvtr.org/posts/</link>
+        <description>Recent content in Posts on OpenCV Türkiye</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>opencvtr.org</copyright>
+        <lastBuildDate>Fri, 12 Jun 2020 11:16:43 +0300</lastBuildDate>
+        <atom:link href="http://opencvtr.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Topluluk Yeniden Yapılanıyor</title>
+            <link>http://opencvtr.org/posts/opencv-turkiye-toplulugu/</link>
+            <pubDate>Fri, 12 Jun 2020 11:16:43 +0300</pubDate>
+            
+            <guid>http://opencvtr.org/posts/opencv-turkiye-toplulugu/</guid>
+            <description>2015 yılında, OpenCV ve görüntü işleme teknolojileri üzerine çalışma yapmak amacıyla oluşturulmuş OpenCV Türkiye topluluğumuz, malesef uzun zamandır aktif değildi.
+Bugün itibari ile topluluğumuzu yeniden canlandırmak amacıyla bazı adımlar attık, OpenCV global topluluğununda desteğini alarak yeniden yapılanıyoruz, bu yapılanmada sizlerinde desteğine ihtiyacımız var. Bunun için aşağıdaki başvuru formunu kullanabilirsiniz. Lütfen bizimle iletişime geçmekten çekinmeyin.
+🥳 Topluluğun Amacı
+OpenCV Türkiye topluluğu; görüntü işleme, bilgisayarlı görü ve yapay zeka alanlarında çalışma yapan veya ilgi duyan kişileri buluşturan, bu alanlarda bilgi ve deneyim paylaşımının sağlanması amacıyla bir araya gelmiş kişiler tarafından oluşturulmuş, ticari amaç gütmeyen gönüllü bir topluluktur.</description>
+            <content type="html"><![CDATA[<p><img src="https://opencvtr.org/img/opencv-logo-small.png" alt="OpenCV Logo"></p>
+<p>2015 yılında, OpenCV ve görüntü işleme teknolojileri üzerine çalışma yapmak amacıyla oluşturulmuş OpenCV Türkiye topluluğumuz, malesef uzun zamandır aktif değildi.</p>
+<p>Bugün itibari ile topluluğumuzu yeniden canlandırmak amacıyla bazı adımlar attık, OpenCV global topluluğununda desteğini alarak yeniden yapılanıyoruz, bu yapılanmada sizlerinde desteğine ihtiyacımız var. Bunun için aşağıdaki başvuru formunu kullanabilirsiniz. Lütfen bizimle iletişime geçmekten çekinmeyin.</p>
+<p>🥳 <strong>Topluluğun Amacı</strong></p>
+<p>OpenCV Türkiye topluluğu; görüntü işleme, bilgisayarlı görü ve yapay zeka alanlarında çalışma yapan veya ilgi duyan kişileri buluşturan, bu alanlarda bilgi ve deneyim paylaşımının sağlanması amacıyla bir araya gelmiş kişiler tarafından oluşturulmuş, ticari amaç gütmeyen gönüllü bir topluluktur. Topluluğun amacı; görüntü işleme teknolojileri alanlarda eğitim materyalleri oluşturmak, etkinlikler düzenlemek, akademik çalışmaları desteklemek ve bu alandaki teknolojiler üzerine tartışma ortamı sağlamaktır.</p>
+<p>🧠 <strong>Kimler Var?</strong></p>
+<p>OpenCV Türkiye topluluğu, görüntü işleme, bilgisayarlı görü, yapay zeka gibi alanlar da çalışma yapan mühendisler, akademisyenler ve öğrencilerden oluşmaktadır.</p>
+<p>🔨 <strong>Nasıl Katılabilirim?</strong></p>
+<p>Topluluğa katılmak için aşağıdaki başvuru formunu kullanabilirsiniz.</p>
+<p><a href="https://forms.gle/oPagwY1sca62GrKc6">Başvuru formu (Google Forms)</a></p>
+<p>(Başvurunuz sonrası email ile size dönüş sağlanacak ve discord/slack grubumuza katılım için bir davet maili alacaksınız. İletişime geçmek için <a href="mailto:opencvturkiye@gmail.com">opencvturkiye@gmail.com</a> mail adresini ve <a href="http://opencvtr.org">http://opencvtr.org</a> web sitesini kullanabilirsiniz.)</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

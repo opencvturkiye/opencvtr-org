@@ -3,16 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://opencvtr.org/</loc>
+    <lastmod>2020-06-12T11:16:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencvtr.org/posts/</loc>
+    <lastmod>2020-06-12T11:16:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencvtr.org/posts/opencv-turkiye-toplulugu/</loc>
+    <lastmod>2020-06-12T11:16:43+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://opencvtr.org/about/</loc>
     <lastmod>2020-06-11T12:50:28+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://opencvtr.org/community/</loc>
-  </url>
-  
-  <url>
-    <loc>http://opencvtr.org/</loc>
   </url>
   
   <url>

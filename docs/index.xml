@@ -7,9 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>opencvtr.org</copyright>
+    <lastBuildDate>Fri, 12 Jun 2020 11:16:43 +0300</lastBuildDate>
     
 	<atom:link href="http://opencvtr.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topluluk Yeniden Yapılanıyor</title>
+      <link>http://opencvtr.org/posts/opencv-turkiye-toplulugu/</link>
+      <pubDate>Fri, 12 Jun 2020 11:16:43 +0300</pubDate>
+      
+      <guid>http://opencvtr.org/posts/opencv-turkiye-toplulugu/</guid>
+      <description>2015 yılında, OpenCV ve görüntü işleme teknolojileri üzerine çalışma yapmak amacıyla oluşturulmuş OpenCV Türkiye topluluğumuz, malesef uzun zamandır aktif değildi.
+Bugün itibari ile topluluğumuzu yeniden canlandırmak amacıyla bazı adımlar attık, OpenCV global topluluğununda desteğini alarak yeniden yapılanıyoruz, bu yapılanmada sizlerinde desteğine ihtiyacımız var. Bunun için aşağıdaki başvuru formunu kullanabilirsiniz. Lütfen bizimle iletişime geçmekten çekinmeyin.
+🥳 Topluluğun Amacı
+OpenCV Türkiye topluluğu; görüntü işleme, bilgisayarlı görü ve yapay zeka alanlarında çalışma yapan veya ilgi duyan kişileri buluşturan, bu alanlarda bilgi ve deneyim paylaşımının sağlanması amacıyla bir araya gelmiş kişiler tarafından oluşturulmuş, ticari amaç gütmeyen gönüllü bir topluluktur.</description>
+    </item>
     
     <item>
       <title>Hakkımızda</title>

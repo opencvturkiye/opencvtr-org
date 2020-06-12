@@ -1,7 +1,7 @@
 ---
 title: "Topluluk Yeniden Yapılanıyor"
 date: 2020-06-12T11:16:43+03:00
-draft: true
+draft: false
 ---
 
 ![OpenCV Logo](https://opencvtr.org/img/opencv-logo-small.png)
