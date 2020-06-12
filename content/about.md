@@ -19,3 +19,6 @@ OpenCV Türkiye topluluğu, görüntü işleme, bilgisayarlı görü, yapay zeka
 Topluluğa katılmak için aşağıdaki başvuru formunu kullanabilirsiniz.
 
 [Başvuru formu (Google Forms)](https://forms.gle/oPagwY1sca62GrKc6)
+
+
+İletişim için opencvturkiye@gmail.com mail adresini kullanabilir veya sosyal medya hesaplarımızdan bize ulaşabilirsiniz.
