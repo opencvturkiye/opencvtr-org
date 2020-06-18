@@ -33,7 +33,12 @@ paginate     = 10
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/opencvtr"
-    
+
+   # Social icons
+  [[params.social]]
+    name = "slack"
+    url  = "https://opencvturkiye.slack.com/"
+
   [[params.social]]
     name = "youtube"
     url  = "https://youtube.com/opencvtr"
